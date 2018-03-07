@@ -1,0 +1,2 @@
+# ShaarlyPlugins
+My shaarli Plugins.
